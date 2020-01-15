@@ -1,13 +1,5 @@
-/*
-** EPITECH PROJECT, 2019
-** CPool_2019
-** File description:
-** My_str_to_word_array
-*/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include "./include/my.h"
+#include "./my.h"
 
 int is_letter(char c) {
     return ((c > 64 && c < 91) || (c < 123 && c > 96) || (c < 58 && c > 47));
