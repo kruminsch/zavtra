@@ -1,12 +1,5 @@
-##
-## EPITECH PROJECT, 2020
-## Makefile compiles binary
-## File description:
-## Makefile
-##
 
-
-SRC	=	real.c					\
+SRC	=	main.c					\
 		my_str_to_word_array.c	        	\
 		sort_words.c				\
 
